@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DIRECTORY>
+<MEMBER>
+<FIRST>Colton</FIRST>
+	<LAST>Blair</LAST>
+<TITLE>Web Manager</TITLE>
+	<PHOTO>https://extension.usu.edu/images/blair-colton-2022.jpg</PHOTO>
+</MEMBER>
+<MEMBER>
+<FIRST>Terence</FIRST>
+<LAST>Larson</LAST>
+<TITLE>Web Designer</TITLE>
+	<PHOTO>https://extension.usu.edu/images/larson-terence.jpg</PHOTO>
+</MEMBER>
+<MEMBER>
+<FIRST>Jens</FIRST>
+<LAST>Poulsen</LAST>
+<TITLE>Web Assistant</TITLE>
+	<PHOTO>https://extension.usu.edu/images/poulsen-jens.jpg</PHOTO>
+</MEMBER>
+</DIRECTORY>
